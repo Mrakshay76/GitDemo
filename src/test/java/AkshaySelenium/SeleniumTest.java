@@ -13,4 +13,10 @@ public class SeleniumTest {
 	{
 		System.out.println("Element");
 	}
+	@Test
+	public void Gittest()
+	{
+		System.out.println("run git test");
+	}
+	
 }
