@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-24T05:51:30Z" name="Suite" finished-at="2022-07-24T05:51:30Z" duration-ms="122">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T05:51:30Z" name="Test" finished-at="2022-07-24T05:51:30Z" duration-ms="122">
+      <class name="AkshaySelenium.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:AkshaySelenium.AppiumTest@72cc7e6f]" started-at="2022-07-24T11:21:30Z" name="IOSApps" finished-at="2022-07-24T11:21:30Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAPandroid()[pri:0, instance:AkshaySelenium.AppiumTest@72cc7e6f]" started-at="2022-07-24T11:21:30Z" name="NativeAPandroid" finished-at="2022-07-24T11:21:30Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPandroid -->
+      </class> <!-- AkshaySelenium.AppiumTest -->
+      <class name="AkshaySelenium.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:AkshaySelenium.RESTAPITest@18271936]" started-at="2022-07-24T11:21:30Z" name="deleteTwitter" finished-at="2022-07-24T11:21:30Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="posJira()[pri:0, instance:AkshaySelenium.RESTAPITest@18271936]" started-at="2022-07-24T11:21:30Z" name="posJira" finished-at="2022-07-24T11:21:30Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posJira -->
+      </class> <!-- AkshaySelenium.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
