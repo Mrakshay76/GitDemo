@@ -9,6 +9,7 @@ public class RESTAPITest {
 		System.out.println("Jira");
 		System.out.println("Jira1");
 		System.out.println("Jira2");
+		System.out.println("Jira4");
 	}
     @Test
     public void deleteTwitter()
